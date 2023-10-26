@@ -1,2 +1,7 @@
-# trust-to-blockchain-course
-Homework for course Trust to blockchains
+# h1 - Hello world
+
+a) My first task was
+
+## References
+
+Alesia Gritcuk

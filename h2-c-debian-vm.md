@@ -1,4 +1,4 @@
-# h1 - Install Debian on Virtualbox
+# h1 - Task C Install Debian on Virtualbox
 1. HW: Lenovo ThinkPad T480
 2. Host OS: Windows 11 PRO
 3. Went: live amd64 folder on cdimage.debian.org

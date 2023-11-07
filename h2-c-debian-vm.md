@@ -1,4 +1,28 @@
-# h1 - Task C Install Debian on Virtualbox
+# h1 - h2 Crown Jewels and Bad Guys
+## Task X Read and summarize: Intelligence-Driven Computer Network Defense, Informed by Analysis of Adversary Campaigns and
+## Intrusion Kill Chains
+
+Such tools as intrusion detection systems and anti-virus are inefficent for new class of threats: "Advanced Persistent Threat" (APT). Kill chain model can help to mitigate potential intrusions.
+
+"Advanced Persistent Threat" (APT) is a new trend in the world of threats, where intrusion detection systems and anti-virus are inefficent as APT is a stealthy threat actors, typically a state or state-sponsored group, which gains unauthorized access to a computer network and remains undetected for an extended period. Accroding to Hutchins et al 2011, responses to APT intrusions require an evolution in analysis, process, and technology.
+
+It's interesting to see how modern cyber kill chain is different with kill chain descirbed in publication made by United States Department of Defense Joint Staff publication where the stages were identified as follow: find,fix, track, target, engage, and assess (U.S. Department of Defense, 2007).
+
+My own observation is it's interesting to read about similarities in cyber kill chain and Improvised Explosive Device (IED) attacks. I would never think there are any similarities between those 2 activities.
+
+The effect of intelligence-driven CND is a more resilient security posture. APT actors, by their nature,
+attempt intrusion after intrusion, adjusting their operations based on the success or failure of each
+attempt. In a kill chain model, just one mitigation breaks the chain and thwarts the adversary, therefore
+any repetition by the adversary is a liability that defenders must recognize and leverage
+
+Cyber killchain originates from  U.S. military targeting doctrine defines the steps of this process as find, fix, track, target, engage, assess
+(F2T2EA)
+
+Reading Table 1: Courses of Action Matrix there is nothing that can destroy the  intrusion
+
+
+
+## Task C Install Debian on Virtualbox
 1. HW: Lenovo ThinkPad T480
 2. Host OS: Windows 11 PRO
 3. Went: live amd64 folder on cdimage.debian.org
